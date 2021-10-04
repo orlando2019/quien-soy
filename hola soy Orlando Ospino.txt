@@ -3,7 +3,7 @@ Hola soy Orlando Ospino
 Tengo 42 años
 Soy Un desempleado actualmente.
 
-Tengo dos hijos
+Tengo dos hijos, Tobias y Gabriela
 
 Mi proximo trabajo es ser un desarrollador en Python, Angular
 
