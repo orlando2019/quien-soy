@@ -1,0 +1,11 @@
+hola soy Orlando Ospino
+
+tengo 42 años
+Soy Un desempleado actualmente.
+
+tengo dos hijos
+
+Mi proximo trabajo es ser un desarrollador en Python, Angular
+
+
+En estos momentos estoy realizando un curso de Git en platzi
