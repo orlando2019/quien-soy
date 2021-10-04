@@ -1,9 +1,9 @@
 Hola soy Orlando Ospino
 
-tengo 42 años
+Tengo 42 años
 Soy Un desempleado actualmente.
 
-tengo dos hijos
+Tengo dos hijos
 
 Mi proximo trabajo es ser un desarrollador en Python, Angular
 
