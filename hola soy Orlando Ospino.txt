@@ -5,7 +5,7 @@ Soy Un desempleado actualmente.
 
 Tengo dos hijos, Tobias y Gabriela
 
-Mi proximo trabajo es ser un desarrollador en Python, Angular en la emperas Dentalli
+Mi proximo trabajo es ser un desarrollador en Python, Angular en la empresa Dentalli
 
 
 En estos momentos estoy realizando un curso de Git en platzi
