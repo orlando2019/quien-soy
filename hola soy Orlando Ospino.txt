@@ -11,3 +11,5 @@ Mi proximo trabajo es ser un desarrollador en Python, Angular en la empresa Dent
 En estos momentos estoy realizando un curso de Git en platzi
 
 Vivo en la ciudad de Monteria
+
+Es espera de llamado para un nuevo examen
