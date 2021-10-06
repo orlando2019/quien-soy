@@ -1,5 +1,5 @@
-Hola soy Orlando Manuel Ospino Hernández
-Hola soy Tobias Ospino Ortiz
+Hola soy Orlando Manuel Ospino Hernández.
+Hola soy Tobias Ospino Ortiz.
 
 Cedula No. 10.934.281
 
@@ -8,7 +8,7 @@ Tarjeta de indetidad  No. 1.137.974.938
 Tengo 42 años
 Soy Un desempleado actualmente.
 
-Tengo dos hijos, Tobias y Gabriela
+Tengo dos hijos, Tobias y Gabriela.
 
 Mi próximo trabajo es ser un desarrollador en Python, Angular en la empresa Dentalli.
 
